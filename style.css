@@ -166,6 +166,7 @@ input:focus ,textarea:focus{
 .click{
     transition: 300ms ease;
     cursor: pointer;
+    width: 100%;
 }
 nav{
     display: flex;
@@ -188,8 +189,17 @@ nav{
     text-decoration: none;
     font-size: 16px;
     color: black;
-    font-weight: 700;   
+    font-weight: 700; 
+    width: 100%;  
 }
+.contrast{
+    width: 100px;
+}
+.contrast__img{
+    width: 100%;
+}
+
+
 .fa-adjust{
     font-size: 20px;
 }
