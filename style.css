@@ -511,15 +511,18 @@ textarea{
     visibility: visible;
 }
 .certificate{
-    position: relative;
-    width: 100%;
+    width: auto;
     height: 100%;
     display: flex;
     justify-content: center;
-    align-items: center;
-    padding-bottom: 2rem;
+    border-radius: 2px;
+
 
 }
+.cert--img{
+    width: 50%;
+}
+
 /* shapes
 
 SHAPES ON THE FIRST ROW
