@@ -662,3 +662,9 @@ SHAPE
 .redux-img{
     width: 70%;
 }
+
+.exit:hover {
+    cursor: pointer;
+    transition: 300ms ease;
+    transform: scale(1.0);
+}
