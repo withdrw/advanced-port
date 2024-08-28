@@ -464,7 +464,7 @@ textarea{
 .modal__exit{
     position: absolute;
     top: 30px;
-    right: 40px;
+    right: 50px;
     color: white;
     font-size: 30px;
     z-index: 100;
